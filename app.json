@@ -34,14 +34,14 @@
     ,
     "BOT_NAME" : {
        
-      "description":"put A name for your bot",
+      "description":"Prosper_md",
       "value":"𝐇𝐔𝐍𝐂𝐇𝐎 𝐌𝐃",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
-      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
+      "description":"add one or many link for your bot menu  ; eg : https://chat.whatsapp.com/BCXbCReDqYx4wDslM55cMt",
       "value":"https://telegra.ph/file/835c3a335c8e2585898fc.jpg",
       "required":false
        
@@ -58,13 +58,13 @@
      "required" :false
     },
   "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME (this is optionnal)",
+    "description": "prosperza",
      "required" :false
     }  
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after scanning Qr code",   
+      "description":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMkZ5UnZWRSsrbnR5Yyt0Yzl4ekJzU0J3Y3MwM1daQ0JUOGNDR1pINHRYND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidDBqZ0VaeU85K1VwUjRnWkpTMUN5WnZrM0F3YXNieDNKMldkeVo4VkZuRT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJXT3FTcVU0cUpTdkNSeUo1dFpRK1JJMlVKVGF5TXVSS2IvZS9qL0ZScldRPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVOHhWandIdUVqdU8xalhMeDMrc3ArQUdWZHRacVlLaWZlUTBtbHY4L0N3PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImdDY1BGMXQ0NWowbDh1cm1HTFdBb3BzVFMveTZmWS8yNjJzV0FENEhVbFk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklxYm8xNFV4SmpySG9lWTNNTUNZU3ZlWEZDSE9yNngxcjV4NmZyNHlhVkk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNEJsV3JELy8zM0ZYVm4rR0ttZDltUG5sOW42WUYrUVArVzk4aDkzZzMwbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYzNCc3E1a0dxV0NqRnQwbS84UlI3K0VqQWZEd0xNNmtUN2srazd6aWtsUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkVoRXl5dUdUQlo3eDNjZlQzZm1ycTRyYVpKZWNYNVkyWTVVZnM5TXJlcmlwRHVib3hWVTIyUlNPRFd3UTJmWjBTVHhyRDFFMDVHd2xGQWN2MmJLZEFnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTM0LCJhZHZTZWNyZXRLZXkiOiJNdnFzZzdUK1NDTjcwOVB0bTl5NENOZVJ5YlJUZndGUjZnSW9YY0xBZGdrPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJEY3VCT1kzTlRmNlRtQnFINUo4U1BRIiwicGhvbmVJZCI6ImFlMTgzMWU2LTYwZTktNGVkNy1hMTViLTM2YjNkYzg1NzZhYSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJTNFRRV0FBaWRYTDFIYXdBak8zWFRRTUpuRzA9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK09BS2ZNSG1SUjhkZzM5bnM1SlhFRWFheWE0PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IktFQUhFODZTIiwibWUiOnsiaWQiOiIyNjM3MTMyNzExNzk6MzJAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1BMUDhOUUJFUFhSN3JJR0dBSWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InNpZmRpMG81L3VDdk5taVhpcDhXemhRYnlwVXBVWE0vNDA5TFoxbVo5ejQ9IiwiYWNjb3VudFNpZ25hdHVyZSI6IlZDMFE2NGFuUUlYQ20ya29QM0ludmZkeE51SXo5NlhBdXhHVkY5Z3dqZFQ0ckthT1Z1eis4TnV6L2UrTXdUM2sxSkYyTFlJTW9URXZkLyt5SmF3T0FRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiIzRW50TEtFRThtK3I4bGNVbGk1WThtVGpSRC9XUldITHJSS3FHTkNzTG5naThlNENMU1BZTkxwQ1NMSWQvUE9tNWpyenFrUDFvbk9QRDFBbWxuWXpCUT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI2MzcxMzI3MTE3OTozMkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJiSW4zWXRLT2Y3Z3J6Wm9sNHFmRnM0VUc4cVZLVkZ6UCtOUFMyZFptZmMrIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzE3MjgzMDc0fQ==",   
       "value":"",
       "required":true
       
@@ -72,16 +72,16 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "Prosper",
     "required": false,
     "value": "𝐊𝐞𝐢𝐭𝐡 𝐊𝐞𝐢𝐳𝐳𝐚𝐡"
   },
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "263713271179",
     "required":false,
-    "value": "254748387615"
+    "value": "263713271179"
   },
     "WARN_COUNT":
   {
@@ -97,8 +97,8 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
-    "required": false
+    "value":"2",
+    "required": tue
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
